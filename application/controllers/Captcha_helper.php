@@ -22,7 +22,7 @@ public function index() {
 				'word' => $angka_acak,
 				'img_path' => "./captcha/",
 				'img_url' => base_url()."captcha/",
-				'font_path' => BASEPATH . 'system/fonts/textb.ttf,
+				'font_path' => BASEPATH . 'system/fonts/textb.ttf',
 				"font_size" => 16,
 				"img_width" => 130,
 				"img_height" => 35,
